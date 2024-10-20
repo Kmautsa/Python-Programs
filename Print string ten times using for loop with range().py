@@ -5,3 +5,4 @@ for i in range(10):
 print("the second Method")
 for i in '123456789':
     print("Hello World!")
+print("This is the end of code to prevent infinite loop")
