@@ -5,7 +5,7 @@ You have two datasets of image files for training. One dataset contains 4000 ima
 and the other contains 3000 images. Each image is 256KB in size.
 Additionally, you receive a new storage device with 2048MB capacity.
 """
-
+ 
 
 # Sizes of datasets (in images) 
 dataset1_size = 4000
