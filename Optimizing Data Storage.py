@@ -12,7 +12,7 @@ dataset1_size = 4000
 dataset2_size = 3000
 
 # Size of each image in KB
-image_size_kb = 256
+image_size_kb = 256 
 
 # Calculate total storage needed (in KB)
 total_storage_kb = ((4000*256)+(3000*256))
