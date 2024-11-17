@@ -7,7 +7,7 @@ Additionally, you receive a new storage device with 2048MB capacity.
 """
 
 
-# Sizes of datasets (in images)
+# Sizes of datasets (in images) 
 dataset1_size = 4000
 dataset2_size = 3000
 
