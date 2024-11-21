@@ -1,4 +1,4 @@
-#using the if statement to commpare values and print them 
+ #using the if statement to commpare values and print them 
 num1=50
 num2=70
 if num1>num2:
