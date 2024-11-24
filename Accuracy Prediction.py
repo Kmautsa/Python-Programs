@@ -10,4 +10,3 @@ average_accuracy = ((85.5+90.2+87.3)//3)
 print(f"The average prediction accuracy over the last three months is {average_accuracy:.2f}%") 
     
  
- 
