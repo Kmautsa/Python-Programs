@@ -1,4 +1,4 @@
-__author__="Kudzanai Mautsa"
+ __author__="Kudzanai Mautsa"
 """
 Description: You are optimizing the data storage for a machine learning project.
 You have two datasets of image files for training. One dataset contains 4000 images, 
