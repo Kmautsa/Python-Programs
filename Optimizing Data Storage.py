@@ -11,7 +11,7 @@ Additionally, you receive a new storage device with 2048MB capacity.
 dataset1_size = 4000
 dataset2_size = 3000
 
-# Size of each image in KB 
+# Size of each image in KB  
 image_size_kb = 256 
 
 # Calculate total storage needed (in KB)
